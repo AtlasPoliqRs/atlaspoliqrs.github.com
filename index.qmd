@@ -5,6 +5,8 @@ format: html
 
 ## Página do Atlas de Poliquetas da Bacia de Pelotas
 
+**PDF disponivel:** [Lista de Espécies (Polychaeta) da Bacia de Pelotas](lista_especies.pdf)
+
 A classe **Polychaeta** (Annelida) constitui um dos grupos de invertebrados marinhos mais diversos do ambiente bentônico costeiro e oceânico, estando associados a distintos tipos de substratos. Estão presentes desde a zona entre marés até maiores profundidades. Do ponto de vista ecológico, os poliquetas desempenham papéis centrais como bioturbadores (ciclo biogeoquímico), consumidores (detritos, algas e partículas em suspensão), presas (de peixes e crustáceos) e indicadores ambientais, sendo sensíveis a perturbações ambientais.
 
 O presente levantamento taxonômico foi restrito aos registros de Polychaeta presentes na Bacia de Pelotas, localizada na margem continental sul do Brasil, desde o sul da Ilha de Santa Catarina (limite com a Bacia de Santos) até a fronteira do Brasil com o Uruguai. Apesar da relevância ecológica e taxonômica para a região, o conhecimento sobre a fauna de poliquetas da Bacia de Pelotas permanece fragmentado, sem a devida sistematização que permita acesso compilado e atualizado às espécies registradas. *Checklists* de referência estão disponíveis nos estados do sudeste, Paraná e Santa Catarina, evidenciando a importância desse tipo de compilação que serviram de modelo para o presente trabalho.
