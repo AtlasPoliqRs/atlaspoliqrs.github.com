@@ -5,7 +5,13 @@ format: html
 
 ## Página do Atlas de Poliquetas da Bacia de Pelotas
 
+
+[Link para página com a lista das espécies](lista_especies.html)
+
+
 **PDF disponivel:** [Lista de Espécies (Polychaeta) da Bacia de Pelotas](lista_especies.pdf)
+
+
 
 A classe **Polychaeta** (Annelida) constitui um dos grupos de invertebrados marinhos mais diversos do ambiente bentônico costeiro e oceânico, estando associados a distintos tipos de substratos. Estão presentes desde a zona entre marés até maiores profundidades. Do ponto de vista ecológico, os poliquetas desempenham papéis centrais como bioturbadores (ciclo biogeoquímico), consumidores (detritos, algas e partículas em suspensão), presas (de peixes e crustáceos) e indicadores ambientais, sendo sensíveis a perturbações ambientais.
 
