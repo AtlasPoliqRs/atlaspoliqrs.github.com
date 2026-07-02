@@ -1,15 +1,21 @@
 ---
-title: "Página do Atlas 2026"
-format: html
+title: "Atlas de Poliquetas"
+subtitle: "Bacia de Pelotas — Margem Continental Sul do Brasil"
+format:
+  html:
+    theme:
+      - flatly
+      - custom.scss
+    include-in-header:
+      - text: |
+          <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro&family=Merriweather:wght@700&display=swap" rel="stylesheet">
 ---
 
-## Página do Atlas de Poliquetas da Bacia de Pelotas
+::: {.callout-note appearance="simple" icon=false}
+🪱 **[Acessar lista completa de espécies](lista_especies.html)**
 
-
-[Link para página com a lista das espécies](lista_especies.html)
-
-
-**PDF disponivel:** [Lista de Espécies (Polychaeta) da Bacia de Pelotas](lista_especies.pdf)
+📄 **[Baixar PDF do checklist](lista_especies.pdf)**
+:::
 
 
 

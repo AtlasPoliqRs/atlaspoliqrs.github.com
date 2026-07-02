@@ -1,0 +1,28 @@
+/*-- scss:defaults --*/
+$primary: #0f4c5c;
+$body-bg: #ffffff;
+$link-color: #0f4c5c;
+$body-font: 'Source Sans Pro', sans-serif;
+$headings-font-family: 'Merriweather', serif;
+$headings-color: #0f4c5c;
+
+/*-- scss:rules --*/
+body {
+  text-align: justify;
+  line-height: 1.7;
+}
+
+h1, h2 {
+  border-bottom: 1px solid #d9d9d9;
+  padding-bottom: 10px;
+  font-weight: 700;
+}
+
+a {
+  text-decoration: underline;
+  text-decoration-color: #a3c4c9;
+}
+
+a:hover {
+  color: #156d82;
+}
